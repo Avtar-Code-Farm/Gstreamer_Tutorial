@@ -1,0 +1,108 @@
+{
+    "version": "1.4.0",
+    "world_name": "funny_faces_hotdog",
+    "properties": {
+        "3ddfa_version": "0.3.0",
+        "asset_background": {
+            "shader_file": "basic"
+        },
+        "asset_foreground": {
+            "enable_portrait": true,
+            "images_path": "meshes/world_hotdog/foreground/",
+            "prefix_entry": "2020-07-22_Tablecloth",
+            "num_of_frames_entry": "35",
+            "prefix_loop": "world_hotdog_foreground_loop",
+            "num_of_frames_loop": "1",
+            "offset_x": "0",
+            "offset_y": "0",
+            "shader_file": "basic"
+        },
+        "assets_anchored": {
+            "face_model_data_path": "face_models/basel/",
+            "models": [
+                {
+                    "obj_filename": "meshes/world_hotdog/hotdog/models/hotdog_blocker_v2.obj",
+                    "textures": [
+                        {
+                            "uniform_name": "albedo_texture",
+                            "type": "2D",
+                            "filename": "meshes/generic_tex/black.png"
+                        },
+                        {
+                            "uniform_name": "alpha_texture",
+                            "type": "2D",
+                            "filename": "meshes/generic_tex/black.png"
+                        }
+                    ],
+                    "shader_file": "alpha_albedo",
+                    "places": [
+                        {
+                            "location": "mean",
+                            "scale": "0.54",
+                            "translation": [
+                                "0",
+                                "0.12",
+                                "0.61"
+                            ]
+                        }
+                    ],
+                    "animations": [
+                        {
+                            "delay": "0",
+                            "duration": "0.5",
+                            "type": "LinearYTranslateAbsolute",
+                            "properties": {}
+                        },
+                        {
+                            "delay": "0.5",
+                            "duration": "0.1",
+                            "type": "ReverbYTranslate",
+                            "properties": {}
+                        }
+                    ]
+                },
+                {
+                    "obj_filename": "meshes/world_hotdog/hotdog/models/hotdog_v2.obj",
+                    "textures": [
+                        {
+                            "uniform_name": "albedo_texture",
+                            "type": "2D",
+                            "filename": "meshes/world_hotdog/hotdog/tex/hotdog_albedo.png"
+                        },
+                        {
+                            "uniform_name": "alpha_texture",
+                            "type": "2D",
+                            "filename": "meshes/world_hotdog/hotdog/tex/hotdog_alpha.png"
+                        }
+                    ],
+                    "shader_file": "alpha_albedo",
+                    "places": [
+                        {
+                            "location": "mean",
+                            "scale": "0.54",
+                            "translation": [
+                                "0",
+                                "0.12",
+                                "0.61"
+                            ]
+                        }
+                    ],
+                    "animations": [
+                        {
+                            "delay": "0",
+                            "duration": "0.5",
+                            "type": "LinearYTranslateAbsolute",
+                            "properties": {}
+                        },
+                        {
+                            "delay": "0.5",
+                            "duration": "0.1",
+                            "type": "ReverbYTranslate",
+                            "properties": {}
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

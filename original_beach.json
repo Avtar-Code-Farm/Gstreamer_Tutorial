@@ -1,0 +1,235 @@
+{
+    "version": "1.4.0",
+    "world_name": "funny_faces_beach_glasses",
+    "properties": {
+        "3ddfa_version": "0.3.0",
+        "is_metric_enabled": true,
+        "asset_background": {
+            "shader_file": "basic"
+        },
+        "asset_foreground": {
+            "enable_portrait": true,
+            "images_path": "meshes/world_beach_glasses/foreground/",
+            "prefix_entry": "with_water_part00",
+            "num_of_frames_entry": "39",
+            "prefix_loop": "with_water_part01",
+            "num_of_frames_loop": "109",
+            "offset_x": "0",
+            "offset_y": "0",
+            "shader_file": "basic",
+            "foreground_mode": "full"
+        },
+        "assets_anchored": {
+            "face_model_data_path": "face_models/basel/",
+            "models": [
+                {
+                    "obj_filename": "meshes/generic_tex/models/head_blocker_4.obj",
+                    "textures": [
+                        {
+                            "uniform_name": "albedo_texture",
+                            "type": "2D",
+                            "filename": "meshes/generic_tex/black.png"
+                        },
+                        {
+                            "uniform_name": "alpha_texture",
+                            "type": "2D",
+                            "filename": "meshes/generic_tex/black.png"
+                        },
+                        {
+                            "uniform_name": "ao_texture",
+                            "type": "2D",
+                            "filename": "meshes/generic_tex/black.png"
+                        }
+                    ],
+                    "shader_file": "alpha_albedo_ao",
+                    "places": [
+                        {
+                            "location": "mean",
+                            "scale": "0.6",
+                            "translation": [
+                                "0",
+                                "0.52",
+                                "0.62"
+                            ],
+                            "rotation": [
+                                "0",
+                                "0.10",
+                                "3.1415926535897932384626433"
+                            ]
+                        }
+                    ],
+                    "animations": [
+                        {
+                            "delay": "0",
+                            "duration": "1.4",
+                            "type": "NoShow",
+                            "properties": {}
+                        },
+                        {
+                            "delay": "1.4",
+                            "duration": "0.4",
+                            "type": "LinearScaleUp",
+                            "properties": {
+                                "percent": ".001"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "obj_filename": "meshes/world_beach_glasses/glasses/models/frames.obj",
+                    "textures": [
+                        {
+                            "uniform_name": "albedo_texture",
+                            "type": "2D",
+                            "filename": "meshes/world_beach_glasses/glasses/tex/frame_albedo.png"
+                        },
+                        {
+                            "uniform_name": "alpha_texture",
+                            "type": "2D",
+                            "filename": "meshes/world_beach_glasses/glasses/tex/frame_alpha.png"
+                        },
+                        {
+                            "uniform_name": "hdr_texture",
+                            "type": "2D",
+                            "filename": "meshes/generic_tex/black.png"
+                        }
+                    ],
+                    "shader_file": "beach_glasses",
+                    "places": [
+                        {
+                            "location": "nose_bridge",
+                            "scale": "0.67",
+                            "translation": [
+                                "0",
+                                "0",
+                                "0"
+                            ],
+                            "rotation": [
+                                "0",
+                                "0",
+                                "3.1415926535897932384626433"
+                            ],
+                            "lighting": {
+                                "model": "phong",
+                                "lights": [
+                                    {
+                                        "position": [
+                                            "0",
+                                            "0",
+                                            "10000"
+                                        ],
+                                        "color": [
+                                            "1.0",
+                                            "1.0",
+                                            "1.0"
+                                        ],
+                                        "ambient": [
+                                            "0.7",
+                                            "0.7",
+                                            "0.7"
+                                        ],
+                                        "diffuse": [
+                                            "0.7",
+                                            "0.7",
+                                            "0.7"
+                                        ],
+                                        "specular": [
+                                            "1.0",
+                                            "1.0",
+                                            "1.0"
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "animations": [
+                        {
+                            "delay": "0",
+                            "duration": "0.5",
+                            "type": "LinearYTranslateAbsolute",
+                            "properties": {}
+                        }
+                    ]
+                },
+                {
+                    "obj_filename": "meshes/world_beach_glasses/glasses/models/lens.obj",
+                    "textures": [
+                        {
+                            "uniform_name": "albedo_texture",
+                            "type": "2D",
+                            "filename": "meshes/world_beach_glasses/glasses/tex/lens_albedo.png"
+                        },
+                        {
+                            "uniform_name": "alpha_texture",
+                            "type": "2D",
+                            "filename": "meshes/world_beach_glasses/glasses/tex/lens_alpha.png"
+                        },
+                        {
+                            "uniform_name": "hdr_texture",
+                            "type": "2D",
+                            "filename": "meshes/world_beach_glasses/glasses/tex/pool_1k.jpg"
+                        }
+                    ],
+                    "shader_file": "beach_glasses",
+                    "places": [
+                        {
+                            "location": "nose_bridge",
+                            "scale": "0.67",
+                            "translation": [
+                                "0",
+                                "0",
+                                "0"
+                            ],
+                            "rotation": [
+                                "0",
+                                "0",
+                                "3.1415926535897932384626433"
+                            ],
+                            "lighting": {
+                                "model": "phong",
+                                "lights": [
+                                    {
+                                        "position": [
+                                            "0",
+                                            "0",
+                                            "10000"
+                                        ],
+                                        "color": [
+                                            "1.0",
+                                            "1.0",
+                                            "1.0"
+                                        ],
+                                        "ambient": [
+                                            "0.7",
+                                            "0.7",
+                                            "0.7"
+                                        ],
+                                        "diffuse": [
+                                            "0.7",
+                                            "0.7",
+                                            "0.7"
+                                        ],
+                                        "specular": [
+                                            "1.0",
+                                            "1.0",
+                                            "1.0"
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "animations": [
+                        {
+                            "delay": "0",
+                            "duration": "0.5",
+                            "type": "LinearYTranslateAbsolute",
+                            "properties": {}
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

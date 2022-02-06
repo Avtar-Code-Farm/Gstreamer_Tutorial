@@ -1,0 +1,5483 @@
+{
+	"entries" : 
+	[
+		{
+			"name" : "CMAKE_ADDR2LINE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "CMAKE_ADDR2LINE-NOTFOUND"
+		},
+		{
+			"name" : "CMAKE_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/ar"
+		},
+		{
+			"name" : "CMAKE_BUILD_TYPE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "STRING",
+			"value" : "Debug"
+		},
+		{
+			"name" : "CMAKE_CACHEFILE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "This is the directory where this CMakeCache.txt was created"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/Users/siav/Documents/cmakeQuickStart/build"
+		},
+		{
+			"name" : "CMAKE_CACHE_MAJOR_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Major version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "3"
+		},
+		{
+			"name" : "CMAKE_CACHE_MINOR_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Minor version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "22"
+		},
+		{
+			"name" : "CMAKE_CACHE_PATCH_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Patch version of cmake used to create the current loaded cache"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_COLOR_MAKEFILE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable/Disable color output during build."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
+		},
+		{
+			"name" : "CMAKE_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to CMake executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/cmake/3.22.1/bin/cmake"
+		},
+		{
+			"name" : "CMAKE_CPACK_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cpack program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/cmake/3.22.1/bin/cpack"
+		},
+		{
+			"name" : "CMAKE_CTEST_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to ctest program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/cmake/3.22.1/bin/ctest"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/clang++"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-g"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-Os -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O3 -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_CXX_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the CXX compiler during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O2 -g -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_C_COMPILER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/clang"
+		},
+		{
+			"name" : "CMAKE_C_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_C_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-g"
+		},
+		{
+			"name" : "CMAKE_C_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-Os -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_C_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O3 -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_C_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the C compiler during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : "-O2 -g -DNDEBUG"
+		},
+		{
+			"name" : "CMAKE_DLLTOOL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "CMAKE_DLLTOOL-NOTFOUND"
+		},
+		{
+			"name" : "CMAKE_EDIT_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cache edit program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/cmake/3.22.1/bin/ccmake"
+		},
+		{
+			"name" : "CMAKE_EXECUTABLE_FORMAT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Executable file format"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "MACHO"
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_EXPORT_COMPILE_COMMANDS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "TRUE"
+		},
+		{
+			"name" : "CMAKE_EXTRA_GENERATOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of external makefile project generator."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_GENERATOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "Unix Makefiles"
+		},
+		{
+			"name" : "CMAKE_GENERATOR_INSTANCE",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Generator instance identifier."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_GENERATOR_PLATFORM",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator platform."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_GENERATOR_TOOLSET",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Name of generator toolset."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_HOME_DIRECTORY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Source directory with the top level CMakeLists.txt file for this project"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/Users/siav/Documents/cmakeQuickStart"
+		},
+		{
+			"name" : "CMAKE_INSTALL_NAME_TOOL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/install_name_tool"
+		},
+		{
+			"name" : "CMAKE_INSTALL_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Install path prefix, prepended onto install directories."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/usr/local"
+		},
+		{
+			"name" : "CMAKE_LINKER",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/ld"
+		},
+		{
+			"name" : "CMAKE_MAKE_PROGRAM",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/make"
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of modules during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_NM",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/nm"
+		},
+		{
+			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "number of local generators"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_OBJCOPY",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "CMAKE_OBJCOPY-NOTFOUND"
+		},
+		{
+			"name" : "CMAKE_OBJDUMP",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/objdump"
+		},
+		{
+			"name" : "CMAKE_OSX_ARCHITECTURES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Build architectures for OSX"
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_OSX_DEPLOYMENT_TARGET",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Minimum OS X version to target for deployment (at runtime); newer APIs weak linked. Set to empty string for default value."
+				}
+			],
+			"type" : "STRING",
+			"value" : "11.6"
+		},
+		{
+			"name" : "CMAKE_OSX_SYSROOT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The product will be built against the headers and libraries located inside the indicated SDK."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk"
+		},
+		{
+			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Platform information initialized"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_PROJECT_DESCRIPTION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_PROJECT_HOMEPAGE_URL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_PROJECT_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "GstreamerLearning"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "0.1.0"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_MAJOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "0"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_MINOR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_PATCH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "0"
+		},
+		{
+			"name" : "CMAKE_PROJECT_VERSION_TWEAK",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_RANLIB",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/ranlib"
+		},
+		{
+			"name" : "CMAKE_READELF",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "CMAKE_READELF-NOTFOUND"
+		},
+		{
+			"name" : "CMAKE_ROOT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to CMake installation."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/cmake/3.22.1/share/cmake"
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SHARED_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of shared libraries during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_SKIP_INSTALL_RPATH",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If set, runtime paths are not added when installing shared libraries, but are added when building."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "NO"
+		},
+		{
+			"name" : "CMAKE_SKIP_RPATH",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If set, runtime paths are not added when using shared libraries."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "NO"
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during all build types."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_DEBUG",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during DEBUG builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_MINSIZEREL",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during MINSIZEREL builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_RELEASE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during RELEASE builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Flags used by the linker during the creation of static libraries during RELWITHDEBINFO builds."
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "CMAKE_STRIP",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a program."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/strip"
+		},
+		{
+			"name" : "CMAKE_UNAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "uname command"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/bin/uname"
+		},
+		{
+			"name" : "CMAKE_VERBOSE_MAKEFILE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "If this value is on, makefiles will be generated without the .SILENT directive, and all commands will be echoed to the console during the make.  This is useful for debugging only. With Visual Studio IDE projects all commands are done without /nologo."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "FALSE"
+		},
+		{
+			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_PkgConfig",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Details about finding PkgConfig"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "[/usr/local/bin/pkg-config][v0.29.2()]"
+		},
+		{
+			"name" : "GLIB_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GLIB_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "GLIB_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/glib/2.70.3/include"
+		},
+		{
+			"name" : "GLIB_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GLIB_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lglib-2.0;-lintl"
+		},
+		{
+			"name" : "GLIB_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib"
+		},
+		{
+			"name" : "GLIB_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "glib-2.0;intl"
+		},
+		{
+			"name" : "GLIB_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
+		},
+		{
+			"name" : "GLIB_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "glib-2.0"
+		},
+		{
+			"name" : "GLIB_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/glib/2.70.3"
+		},
+		{
+			"name" : "GLIB_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GLIB_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_STATIC_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GLIB_STATIC_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GLIB_STATIC_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GLIB_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_STATIC_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "glib-2.0;intl;iconv;m;pcre"
+		},
+		{
+			"name" : "GLIB_STATIC_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib"
+		},
+		{
+			"name" : "GLIB_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "2.70.3"
+		},
+		{
+			"name" : "GLIB_glib-2.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_glib-2.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_glib-2.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GLIB_glib-2.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.2/include;-I/usr/local/Cellar/glib/2.70.2/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GSTREAMER_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "GSTREAMER_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0"
+		},
+		{
+			"name" : "GSTREAMER_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.2/include;/usr/local/Cellar/glib/2.70.2/include/glib-2.0;/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GSTREAMER_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.2/lib;-L/usr/local/opt/gettext/lib;-lgstreamer-1.0;-lgobject-2.0;-lglib-2.0;-lintl"
+		},
+		{
+			"name" : "GSTREAMER_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib"
+		},
+		{
+			"name" : "GSTREAMER_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstreamer-1.0;gobject-2.0;glib-2.0;intl"
+		},
+		{
+			"name" : "GSTREAMER_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.2/lib;/usr/local/opt/gettext/lib"
+		},
+		{
+			"name" : "GSTREAMER_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstreamer-1.0"
+		},
+		{
+			"name" : "GSTREAMER_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5"
+		},
+		{
+			"name" : "GSTREAMER_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.2/include;-I/usr/local/Cellar/glib/2.70.2/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GSTREAMER_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_STATIC_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.2/include;/usr/local/Cellar/glib/2.70.2/include/glib-2.0;/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.2/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-lgstreamer-1.0;-lgmodule-2.0;-lintl;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstreamer-1.0;gmodule-2.0;intl;gobject-2.0;intl;ffi;glib-2.0;intl;iconv;m;pcre"
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.2/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib"
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1.18.5"
+		},
+		{
+			"name" : "GSTREAMER_gstreamer-1.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_gstreamer-1.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_gstreamer-1.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GSTREAMER_gstreamer-1.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_APP_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "GST_APP_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0"
+		},
+		{
+			"name" : "GST_APP_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_APP_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/gst-plugins-base/1.18.5/lib;-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgstapp-1.0;-lgstbase-1.0;-lgstreamer-1.0;-lgobject-2.0;-lglib-2.0;-lintl"
+		},
+		{
+			"name" : "GST_APP_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5/lib"
+		},
+		{
+			"name" : "GST_APP_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstapp-1.0;gstbase-1.0;gstreamer-1.0;gobject-2.0;glib-2.0;intl"
+		},
+		{
+			"name" : "GST_APP_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5/lib;/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
+		},
+		{
+			"name" : "GST_APP_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstreamer-app-1.0"
+		},
+		{
+			"name" : "GST_APP_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5"
+		},
+		{
+			"name" : "GST_APP_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_APP_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_STATIC_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_APP_STATIC_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/gst-plugins-base/1.18.5/lib;-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-lgstapp-1.0;-lgstbase-1.0;-lgstreamer-1.0;-lgmodule-2.0;-lintl;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GST_APP_STATIC_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GST_APP_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_STATIC_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstapp-1.0;gstbase-1.0;gstreamer-1.0;gmodule-2.0;intl;gobject-2.0;intl;ffi;glib-2.0;intl;iconv;m;pcre"
+		},
+		{
+			"name" : "GST_APP_STATIC_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/gst-plugins-base/1.18.5/lib;/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib"
+		},
+		{
+			"name" : "GST_APP_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1.18.5"
+		},
+		{
+			"name" : "GST_APP_gstreamer-app-1.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_gstreamer-app-1.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_gstreamer-app-1.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_APP_gstreamer-app-1.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "GST_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0"
+		},
+		{
+			"name" : "GST_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgstreamer-1.0;-lgobject-2.0;-lglib-2.0;-lintl"
+		},
+		{
+			"name" : "GST_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib"
+		},
+		{
+			"name" : "GST_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstreamer-1.0;gobject-2.0;glib-2.0;intl"
+		},
+		{
+			"name" : "GST_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
+		},
+		{
+			"name" : "GST_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstreamer-1.0"
+		},
+		{
+			"name" : "GST_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5"
+		},
+		{
+			"name" : "GST_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_STATIC_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_STATIC_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-lgstreamer-1.0;-lgmodule-2.0;-lintl;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GST_STATIC_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GST_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_STATIC_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstreamer-1.0;gmodule-2.0;intl;gobject-2.0;intl;ffi;glib-2.0;intl;iconv;m;pcre"
+		},
+		{
+			"name" : "GST_STATIC_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib"
+		},
+		{
+			"name" : "GST_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1.18.5"
+		},
+		{
+			"name" : "GST_VIDEO_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/orc/0.4.32/include/orc-0.4;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_VIDEO_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "GST_VIDEO_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0"
+		},
+		{
+			"name" : "GST_VIDEO_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/orc/0.4.32/include/orc-0.4;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_VIDEO_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/gst-plugins-base/1.18.5/lib;-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgstvideo-1.0;-lgstbase-1.0;-lgstreamer-1.0;-lgobject-2.0;-lglib-2.0;-lintl"
+		},
+		{
+			"name" : "GST_VIDEO_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5/lib"
+		},
+		{
+			"name" : "GST_VIDEO_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstvideo-1.0;gstbase-1.0;gstreamer-1.0;gobject-2.0;glib-2.0;intl"
+		},
+		{
+			"name" : "GST_VIDEO_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5/lib;/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
+		},
+		{
+			"name" : "GST_VIDEO_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstreamer-video-1.0"
+		},
+		{
+			"name" : "GST_VIDEO_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5"
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/orc/0.4.32/include/orc-0.4;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gst-plugins-base/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/orc/0.4.32/include/orc-0.4;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/gst-plugins-base/1.18.5/lib;-L/usr/local/Cellar/orc/0.4.32/lib;-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-lgstvideo-1.0;-lorc-0.4;-lm;-lgstbase-1.0;-lgstreamer-1.0;-lgmodule-2.0;-lintl;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gstvideo-1.0;orc-0.4;m;gstbase-1.0;gstreamer-1.0;gmodule-2.0;intl;gobject-2.0;intl;ffi;glib-2.0;intl;iconv;m;pcre"
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/gst-plugins-base/1.18.5/lib;/usr/local/Cellar/orc/0.4.32/lib;/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib"
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1.18.5"
+		},
+		{
+			"name" : "GST_VIDEO_gstreamer-video-1.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_gstreamer-video-1.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_gstreamer-video-1.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_VIDEO_gstreamer-video-1.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_gstreamer-1.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_gstreamer-1.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_gstreamer-1.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GST_gstreamer-1.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;-I/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
+		},
+		{
+			"name" : "GTK2_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "GTK2_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/include"
+		},
+		{
+			"name" : "GTK2_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
+		},
+		{
+			"name" : "GTK2_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/gtk+/2.24.33/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgtk-quartz-2.0;-lgdk-quartz-2.0;-framework;Cocoa;-lpangocairo-1.0;-lpango-1.0;-lharfbuzz;-latk-1.0;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0;-lintl"
+		},
+		{
+			"name" : "GTK2_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-framework;Cocoa"
+		},
+		{
+			"name" : "GTK2_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/lib"
+		},
+		{
+			"name" : "GTK2_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk-quartz-2.0;gdk-quartz-2.0;pangocairo-1.0;pango-1.0;harfbuzz;atk-1.0;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0;intl"
+		},
+		{
+			"name" : "GTK2_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
+		},
+		{
+			"name" : "GTK2_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk+-2.0"
+		},
+		{
+			"name" : "GTK2_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gtk+/2.24.33"
+		},
+		{
+			"name" : "GTK2_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;-I/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
+		},
+		{
+			"name" : "GTK2_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_STATIC_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
+		},
+		{
+			"name" : "GTK2_STATIC_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/gtk+/2.24.33/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/fribidi/1.0.11/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/graphite2/1.3.14/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/pixman/0.40.0/lib;-L/usr/local/Cellar/fontconfig/2.13.1/lib;-L/usr/local/opt/freetype/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxrender/0.9.10/lib;-L/usr/local/Cellar/libxext/1.3.4/lib;-L/usr/local/Cellar/libx11/1.7.3.1/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxau/1.0.9/lib;-L/usr/local/Cellar/libxdmcp/1.1.3/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libtiff/4.3.0/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-L/usr/lib;-lgtk-quartz-2.0;-lgdk-quartz-2.0;-framework;Cocoa;-lpangocairo-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lpangoft2-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lharfbuzz-gobject;-lpango-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lfribidi;-lharfbuzz;-lm;-framework;ApplicationServices;-lgraphite2;-latk-1.0;-lcairo;-lz;-lpixman-1;-lfontconfig;-lexpat;-lfreetype;-lz;-lbz2;-lpng16;-lz;-lpng16;-lz;-lxcb-shm;-lxcb-render;-lXrender;-lXext;-lX11;-lxcb;-lXau;-lXdmcp;-lgdk_pixbuf-2.0;-lm;-lintl;-ljpeg;-lpng16;-lz;-ltiff;-ljpeg;-lz;-lgio-2.0;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-lintl;-lresolv;-lgmodule-2.0;-lintl;-lz;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GTK2_STATIC_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-framework;Cocoa;-framework;CoreFoundation;-framework;ApplicationServices;-framework;CoreFoundation;-framework;ApplicationServices;-framework;CoreFoundation;-framework;ApplicationServices;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GTK2_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_STATIC_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk-quartz-2.0;gdk-quartz-2.0;pangocairo-1.0;m;pangoft2-1.0;m;harfbuzz-gobject;pango-1.0;m;fribidi;harfbuzz;m;graphite2;atk-1.0;cairo;z;pixman-1;fontconfig;expat;freetype;z;bz2;png16;z;png16;z;xcb-shm;xcb-render;Xrender;Xext;X11;xcb;Xau;Xdmcp;gdk_pixbuf-2.0;m;intl;jpeg;png16;z;tiff;jpeg;z;gio-2.0;intl;resolv;gmodule-2.0;intl;z;gobject-2.0;intl;ffi;glib-2.0;intl;iconv;m;pcre"
+		},
+		{
+			"name" : "GTK2_STATIC_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/gtk+/2.24.33/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/fribidi/1.0.11/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/graphite2/1.3.14/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/pixman/0.40.0/lib;/usr/local/Cellar/fontconfig/2.13.1/lib;/usr/local/opt/freetype/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxrender/0.9.10/lib;/usr/local/Cellar/libxext/1.3.4/lib;/usr/local/Cellar/libx11/1.7.3.1/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxau/1.0.9/lib;/usr/local/Cellar/libxdmcp/1.1.3/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libtiff/4.3.0/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib;/usr/lib"
+		},
+		{
+			"name" : "GTK2_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "2.24.33"
+		},
+		{
+			"name" : "GTK2_gtk+-2.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_gtk+-2.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_gtk+-2.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK2_gtk+-2.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0;-I/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0;-I/usr/local/Cellar/libepoxy/1.5.9/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
+		},
+		{
+			"name" : "GTK3_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "GTK3_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1/include"
+		},
+		{
+			"name" : "GTK3_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0;/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0;/usr/local/Cellar/libepoxy/1.5.9/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
+		},
+		{
+			"name" : "GTK3_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gtk+3/3.24.30_1/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgtk-3;-lgdk-3;-Wl,-framework,Cocoa;-Wl,-framework,Carbon;-Wl,-framework,CoreGraphics;-lpangocairo-1.0;-lpango-1.0;-lharfbuzz;-latk-1.0;-lcairo-gobject;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0;-lintl"
+		},
+		{
+			"name" : "GTK3_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-Wl,-framework,Cocoa;-Wl,-framework,Carbon;-Wl,-framework,CoreGraphics"
+		},
+		{
+			"name" : "GTK3_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1/lib"
+		},
+		{
+			"name" : "GTK3_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk-3;gdk-3;pangocairo-1.0;pango-1.0;harfbuzz;atk-1.0;cairo-gobject;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0;intl"
+		},
+		{
+			"name" : "GTK3_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gtk+3/3.24.30_1/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
+		},
+		{
+			"name" : "GTK3_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk+-3.0"
+		},
+		{
+			"name" : "GTK3_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1"
+		},
+		{
+			"name" : "GTK3_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0;-I/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0;-I/usr/local/Cellar/libepoxy/1.5.9/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
+		},
+		{
+			"name" : "GTK3_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_INCLUDE_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0;/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0;/usr/local/Cellar/libepoxy/1.5.9/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
+		},
+		{
+			"name" : "GTK3_STATIC_LDFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gtk+3/3.24.30_1/lib;-L/usr/local/Cellar/libepoxy/1.5.9/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/fribidi/1.0.11/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/graphite2/1.3.14/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/pixman/0.40.0/lib;-L/usr/local/Cellar/fontconfig/2.13.1/lib;-L/usr/local/opt/freetype/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxrender/0.9.10/lib;-L/usr/local/Cellar/libxext/1.3.4/lib;-L/usr/local/Cellar/libx11/1.7.3.1/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxau/1.0.9/lib;-L/usr/local/Cellar/libxdmcp/1.1.3/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libtiff/4.3.0/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-L/usr/lib;-lgtk-3;-lgdk-3;-Wl,-framework,Cocoa;-Wl,-framework,Carbon;-Wl,-framework,CoreGraphics;-lepoxy;-ldl;-lpangocairo-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lpangoft2-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lharfbuzz-gobject;-lpango-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lfribidi;-lharfbuzz;-lm;-framework;ApplicationServices;-lgraphite2;-latk-1.0;-lcairo-gobject;-lcairo;-lz;-lpixman-1;-lfontconfig;-lexpat;-lfreetype;-lz;-lbz2;-lpng16;-lz;-lpng16;-lz;-lxcb-shm;-lxcb-render;-lXrender;-lXext;-lX11;-lxcb;-lXau;-lXdmcp;-lgdk_pixbuf-2.0;-lm;-lintl;-ljpeg;-lpng16;-lz;-ltiff;-ljpeg;-lz;-lgio-2.0;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-lintl;-lresolv;-lgmodule-2.0;-lintl;-lz;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GTK3_STATIC_LDFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "-Wl,-framework,Cocoa;-Wl,-framework,Carbon;-Wl,-framework,CoreGraphics;-framework;CoreFoundation;-framework;ApplicationServices;-framework;CoreFoundation;-framework;ApplicationServices;-framework;CoreFoundation;-framework;ApplicationServices;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
+		},
+		{
+			"name" : "GTK3_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_LIBRARIES",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "gtk-3;gdk-3;epoxy;dl;pangocairo-1.0;m;pangoft2-1.0;m;harfbuzz-gobject;pango-1.0;m;fribidi;harfbuzz;m;graphite2;atk-1.0;cairo-gobject;cairo;z;pixman-1;fontconfig;expat;freetype;z;bz2;png16;z;png16;z;xcb-shm;xcb-render;Xrender;Xext;X11;xcb;Xau;Xdmcp;gdk_pixbuf-2.0;m;intl;jpeg;png16;z;tiff;jpeg;z;gio-2.0;intl;resolv;gmodule-2.0;intl;z;gobject-2.0;intl;ffi;glib-2.0;intl;iconv;m;pcre"
+		},
+		{
+			"name" : "GTK3_STATIC_LIBRARY_DIRS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gtk+3/3.24.30_1/lib;/usr/local/Cellar/libepoxy/1.5.9/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/fribidi/1.0.11/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/graphite2/1.3.14/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/pixman/0.40.0/lib;/usr/local/Cellar/fontconfig/2.13.1/lib;/usr/local/opt/freetype/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxrender/0.9.10/lib;/usr/local/Cellar/libxext/1.3.4/lib;/usr/local/Cellar/libx11/1.7.3.1/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxau/1.0.9/lib;/usr/local/Cellar/libxdmcp/1.1.3/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libtiff/4.3.0/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib;/usr/lib"
+		},
+		{
+			"name" : "GTK3_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "3.24.30"
+		},
+		{
+			"name" : "GTK3_gtk+-2.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-2.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-2.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-2.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-3.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-3.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-3.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK3_gtk+-3.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_FOUND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_MODULE_NAME",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_STATIC_CFLAGS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_STATIC_CFLAGS_I",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_STATIC_CFLAGS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_STATIC_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_STATIC_LIBS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_STATIC_LIBS_L",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_STATIC_LIBS_OTHER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_STATIC_LIBS_PATHS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_gtkmm-3.0_INCLUDEDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_gtkmm-3.0_LIBDIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_gtkmm-3.0_PREFIX",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GTK_gtkmm-3.0_VERSION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : ""
+		},
+		{
+			"name" : "GstreamerLearning_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/siav/Documents/cmakeQuickStart/build"
+		},
+		{
+			"name" : "GstreamerLearning_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "GstreamerLearning_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/siav/Documents/cmakeQuickStart"
+		},
+		{
+			"name" : "PKG_CONFIG_ARGN",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Arguments to supply to pkg-config"
+				}
+			],
+			"type" : "STRING",
+			"value" : ""
+		},
+		{
+			"name" : "PKG_CONFIG_EXECUTABLE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "pkg-config executable"
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/bin/pkg-config"
+		},
+		{
+			"name" : "__pkg_config_arguments_GSTREAMER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "REQUIRED;gstreamer-1.0"
+		},
+		{
+			"name" : "__pkg_config_arguments_GST_APP",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "REQUIRED;gstreamer-app-1.0"
+		},
+		{
+			"name" : "__pkg_config_arguments_GST_VIDEO",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "REQUIRED;gstreamer-video-1.0"
+		},
+		{
+			"name" : "__pkg_config_arguments_GTK2",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "REQUIRED;gtk+-2.0"
+		},
+		{
+			"name" : "__pkg_config_arguments_GTK3",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "REQUIRED;gtk+-3.0"
+		},
+		{
+			"name" : "__pkg_config_checked_GLIB",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "__pkg_config_checked_GST",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "__pkg_config_checked_GSTREAMER",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "__pkg_config_checked_GST_APP",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "__pkg_config_checked_GST_VIDEO",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "__pkg_config_checked_GTK2",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "__pkg_config_checked_GTK3",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "1"
+		},
+		{
+			"name" : "pkgcfg_lib_GLIB_glib-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libglib-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GLIB_intl",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/opt/gettext/lib/libintl.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GSTREAMER_glib-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.2/lib/libglib-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GSTREAMER_gobject-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.2/lib/libgobject-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GSTREAMER_gstreamer-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib/libgstreamer-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GSTREAMER_intl",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/opt/gettext/lib/libintl.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_APP_glib-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libglib-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_APP_gobject-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libgobject-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_APP_gstapp-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5/lib/libgstapp-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_APP_gstbase-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib/libgstbase-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_APP_gstreamer-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib/libgstreamer-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_APP_intl",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/opt/gettext/lib/libintl.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_VIDEO_glib-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libglib-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_VIDEO_gobject-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libgobject-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_VIDEO_gstbase-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib/libgstbase-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_VIDEO_gstreamer-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib/libgstreamer-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_VIDEO_gstvideo-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gst-plugins-base/1.18.5/lib/libgstvideo-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_VIDEO_intl",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/opt/gettext/lib/libintl.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_glib-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libglib-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_gobject-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libgobject-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_gstreamer-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib/libgstreamer-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GST_intl",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/opt/gettext/lib/libintl.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_atk-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/atk/2.36.0/lib/libatk-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_cairo",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/cairo/1.16.0_5/lib/libcairo.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_gdk-quartz-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/lib/libgdk-quartz-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_gdk_pixbuf-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gdk-pixbuf/2.42.6/lib/libgdk_pixbuf-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_gio-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libgio-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_glib-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libglib-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_gobject-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libgobject-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_gtk-quartz-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/lib/libgtk-quartz-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_harfbuzz",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/harfbuzz/3.3.1/lib/libharfbuzz.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_intl",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/opt/gettext/lib/libintl.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_pango-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/pango/1.50.3/lib/libpango-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK2_pangocairo-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/pango/1.50.3/lib/libpangocairo-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_atk-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/atk/2.36.0/lib/libatk-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_cairo",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/cairo/1.16.0_5/lib/libcairo.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_cairo-gobject",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/cairo/1.16.0_5/lib/libcairo-gobject.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gdk-3",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1/lib/libgdk-3.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gdk-quartz-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/lib/libgdk-quartz-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gdk_pixbuf-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gdk-pixbuf/2.42.6/lib/libgdk_pixbuf-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gio-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libgio-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_glib-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libglib-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gobject-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libgobject-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gtk-3",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1/lib/libgtk-3.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_gtk-quartz-2.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/lib/libgtk-quartz-2.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_harfbuzz",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/harfbuzz/3.3.1/lib/libharfbuzz.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_intl",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/opt/gettext/lib/libintl.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_pango-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/pango/1.50.3/lib/libpango-1.0.dylib"
+		},
+		{
+			"name" : "pkgcfg_lib_GTK3_pangocairo-1.0",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/local/Cellar/pango/1.50.3/lib/libpangocairo-1.0.dylib"
+		},
+		{
+			"name" : "prefix_result",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : ""
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1/lib"
+		}
+	],
+	"kind" : "cache",
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

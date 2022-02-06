@@ -1,0 +1,3 @@
+/Users/siav/Documents/cmakeQuickStart/build/CMakeFiles/GstreamerLearning.dir
+/Users/siav/Documents/cmakeQuickStart/build/CMakeFiles/edit_cache.dir
+/Users/siav/Documents/cmakeQuickStart/build/CMakeFiles/rebuild_cache.dir
