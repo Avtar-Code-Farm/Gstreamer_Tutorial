@@ -98,15 +98,11 @@
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0"
+					"path" : "/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0"
-				},
-				{
-					"backtrace" : 6,
-					"path" : "/usr/local/Cellar/libepoxy/1.5.9/include"
+					"path" : "/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include"
 				},
 				{
 					"backtrace" : 6,
@@ -207,18 +203,6 @@
 				{
 					"backtrace" : 8,
 					"path" : "/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0"
-				},
-				{
-					"backtrace" : 8,
-					"path" : "/usr/local/Cellar/glib/2.70.2/include"
-				},
-				{
-					"backtrace" : 8,
-					"path" : "/usr/local/Cellar/glib/2.70.2/include/glib-2.0"
-				},
-				{
-					"backtrace" : 8,
-					"path" : "/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include"
 				}
 			],
 			"language" : "CXX",
@@ -256,7 +240,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-L/usr/local/Cellar/gtk+3/3.24.30_1/lib",
+				"fragment" : "-L/usr/local/Cellar/gtk+/2.24.33/lib",
 				"role" : "libraryPath"
 			},
 			{
@@ -301,11 +285,6 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-L/usr/local/Cellar/glib/2.70.2/lib",
-				"role" : "libraryPath"
-			},
-			{
-				"backtrace" : 4,
 				"fragment" : "-L/usr/local/Cellar/libffi/3.4.2/include",
 				"role" : "libraryPath"
 			},
@@ -316,17 +295,12 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-L/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0",
+				"fragment" : "-L/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0",
 				"role" : "libraryPath"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-L/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0",
-				"role" : "libraryPath"
-			},
-			{
-				"backtrace" : 4,
-				"fragment" : "-L/usr/local/Cellar/libepoxy/1.5.9/include",
+				"fragment" : "-L/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include",
 				"role" : "libraryPath"
 			},
 			{
@@ -450,7 +424,7 @@
 				"role" : "libraryPath"
 			},
 			{
-				"fragment" : "-Wl,-rpath,/usr/local/Cellar/cairo/1.16.0_5/lib -Wl,-rpath,/usr/local/Cellar/gtk+3/3.24.30_1/lib -Wl,-rpath,/usr/local/Cellar/pango/1.50.3/lib -Wl,-rpath,/usr/local/Cellar/harfbuzz/3.3.1/lib -Wl,-rpath,/usr/local/Cellar/atk/2.36.0/lib -Wl,-rpath,/usr/local/Cellar/gdk-pixbuf/2.42.6/lib -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/lib -Wl,-rpath,/usr/local/opt/gettext/lib -Wl,-rpath,/Library/Frameworks/GStreamer.framework/Headers -Wl,-rpath,/usr/local/Cellar/gstreamer/1.18.5/lib -Wl,-rpath,/usr/local/Cellar/glib/2.70.2/lib -Wl,-rpath,/usr/local/Cellar/libffi/3.4.2/include -Wl,-rpath,/usr/local/Cellar/cairo/1.16.0_5/include/cairo -Wl,-rpath,/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0 -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0 -Wl,-rpath,/usr/local/Cellar/libepoxy/1.5.9/include -Wl,-rpath,/usr/local/Cellar/pango/1.50.3/include/pango-1.0 -Wl,-rpath,/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz -Wl,-rpath,/usr/local/Cellar/fribidi/1.0.11/include/fribidi -Wl,-rpath,/usr/local/Cellar/graphite2/1.3.14/include -Wl,-rpath,/usr/local/Cellar/atk/2.36.0/include/atk-1.0 -Wl,-rpath,/usr/local/Cellar/pixman/0.40.0/include/pixman-1 -Wl,-rpath,/usr/local/Cellar/fontconfig/2.13.1/include -Wl,-rpath,/usr/local/opt/freetype/include/freetype2 -Wl,-rpath,/usr/local/Cellar/libpng/1.6.37/include/libpng16 -Wl,-rpath,/usr/local/Cellar/libxcb/1.14_1/include -Wl,-rpath,/usr/local/Cellar/libxrender/0.9.10/include -Wl,-rpath,/usr/local/Cellar/libxext/1.3.4/include -Wl,-rpath,/usr/local/Cellar/libx11/1.7.3.1/include -Wl,-rpath,/usr/local/Cellar/libxau/1.0.9/include -Wl,-rpath,/usr/local/Cellar/libxdmcp/1.1.3/include -Wl,-rpath,/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0 -Wl,-rpath,/usr/local/Cellar/libtiff/4.3.0/include -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/include -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/include/glib-2.0 -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include -Wl,-rpath,/usr/local/opt/gettext/include -Wl,-rpath,/usr/local/Cellar/pcre/8.45/include -Wl,-rpath,/usr/local/Cellar/xorgproto/2021.5/include -Wl,-rpath,/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0",
+				"fragment" : "-Wl,-rpath,/usr/local/Cellar/cairo/1.16.0_5/lib -Wl,-rpath,/usr/local/Cellar/gtk+/2.24.33/lib -Wl,-rpath,/usr/local/Cellar/pango/1.50.3/lib -Wl,-rpath,/usr/local/Cellar/harfbuzz/3.3.1/lib -Wl,-rpath,/usr/local/Cellar/atk/2.36.0/lib -Wl,-rpath,/usr/local/Cellar/gdk-pixbuf/2.42.6/lib -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/lib -Wl,-rpath,/usr/local/opt/gettext/lib -Wl,-rpath,/Library/Frameworks/GStreamer.framework/Headers -Wl,-rpath,/usr/local/Cellar/gstreamer/1.18.5/lib -Wl,-rpath,/usr/local/Cellar/libffi/3.4.2/include -Wl,-rpath,/usr/local/Cellar/cairo/1.16.0_5/include/cairo -Wl,-rpath,/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0 -Wl,-rpath,/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include -Wl,-rpath,/usr/local/Cellar/pango/1.50.3/include/pango-1.0 -Wl,-rpath,/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz -Wl,-rpath,/usr/local/Cellar/fribidi/1.0.11/include/fribidi -Wl,-rpath,/usr/local/Cellar/graphite2/1.3.14/include -Wl,-rpath,/usr/local/Cellar/atk/2.36.0/include/atk-1.0 -Wl,-rpath,/usr/local/Cellar/pixman/0.40.0/include/pixman-1 -Wl,-rpath,/usr/local/Cellar/fontconfig/2.13.1/include -Wl,-rpath,/usr/local/opt/freetype/include/freetype2 -Wl,-rpath,/usr/local/Cellar/libpng/1.6.37/include/libpng16 -Wl,-rpath,/usr/local/Cellar/libxcb/1.14_1/include -Wl,-rpath,/usr/local/Cellar/libxrender/0.9.10/include -Wl,-rpath,/usr/local/Cellar/libxext/1.3.4/include -Wl,-rpath,/usr/local/Cellar/libx11/1.7.3.1/include -Wl,-rpath,/usr/local/Cellar/libxau/1.0.9/include -Wl,-rpath,/usr/local/Cellar/libxdmcp/1.1.3/include -Wl,-rpath,/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0 -Wl,-rpath,/usr/local/Cellar/libtiff/4.3.0/include -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/include -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/include/glib-2.0 -Wl,-rpath,/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include -Wl,-rpath,/usr/local/opt/gettext/include -Wl,-rpath,/usr/local/Cellar/pcre/8.45/include -Wl,-rpath,/usr/local/Cellar/xorgproto/2021.5/include -Wl,-rpath,/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0",
 				"role" : "libraries"
 			},
 			{
@@ -475,12 +449,12 @@
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "-lgtk-3",
+				"fragment" : "-lgtk-quartz-2.0",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "-lgdk-3",
+				"fragment" : "-lgdk-quartz-2.0",
 				"role" : "libraries"
 			},
 			{
@@ -501,11 +475,6 @@
 			{
 				"backtrace" : 5,
 				"fragment" : "-latk-1.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 5,
-				"fragment" : "-lcairo-gobject",
 				"role" : "libraries"
 			},
 			{
@@ -560,12 +529,12 @@
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "-lgtk-3",
+				"fragment" : "-lgtk-quartz-2.0",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "-lgdk-3",
+				"fragment" : "-lgdk-quartz-2.0",
 				"role" : "libraries"
 			},
 			{
@@ -586,11 +555,6 @@
 			{
 				"backtrace" : 5,
 				"fragment" : "-latk-1.0",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 5,
-				"fragment" : "-lcairo-gobject",
 				"role" : "libraries"
 			},
 			{

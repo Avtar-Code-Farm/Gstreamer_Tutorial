@@ -1607,7 +1607,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.2/include;-I/usr/local/Cellar/glib/2.70.2/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
 		},
 		{
 			"name" : "GSTREAMER_CFLAGS_I",
@@ -1667,7 +1667,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.2/include;/usr/local/Cellar/glib/2.70.2/include/glib-2.0;/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
 		},
 		{
 			"name" : "GSTREAMER_LDFLAGS",
@@ -1679,7 +1679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.2/lib;-L/usr/local/opt/gettext/lib;-lgstreamer-1.0;-lgobject-2.0;-lglib-2.0;-lintl"
+			"value" : "-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgstreamer-1.0;-lgobject-2.0;-lglib-2.0;-lintl"
 		},
 		{
 			"name" : "GSTREAMER_LDFLAGS_OTHER",
@@ -1727,7 +1727,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.2/lib;/usr/local/opt/gettext/lib"
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
 		},
 		{
 			"name" : "GSTREAMER_LIBS",
@@ -1811,7 +1811,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.2/include;-I/usr/local/Cellar/glib/2.70.2/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include"
 		},
 		{
 			"name" : "GSTREAMER_STATIC_CFLAGS_I",
@@ -1847,7 +1847,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.2/include;/usr/local/Cellar/glib/2.70.2/include/glib-2.0;/usr/local/Cellar/glib/2.70.2/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include"
 		},
 		{
 			"name" : "GSTREAMER_STATIC_LDFLAGS",
@@ -1859,7 +1859,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.2/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-lgstreamer-1.0;-lgmodule-2.0;-lintl;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/gstreamer/1.18.5/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-lgstreamer-1.0;-lgmodule-2.0;-lintl;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
 		},
 		{
 			"name" : "GSTREAMER_STATIC_LDFLAGS_OTHER",
@@ -1907,7 +1907,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.2/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib"
 		},
 		{
 			"name" : "GSTREAMER_STATIC_LIBS",
@@ -3287,7 +3287,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;-I/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;-I/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
 		},
 		{
 			"name" : "GTK2_CFLAGS_I",
@@ -3347,7 +3347,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
 		},
 		{
 			"name" : "GTK2_LDFLAGS",
@@ -3359,7 +3359,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-L/usr/local/Cellar/gtk+/2.24.33/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgtk-quartz-2.0;-lgdk-quartz-2.0;-framework;Cocoa;-lpangocairo-1.0;-lpango-1.0;-lharfbuzz;-latk-1.0;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0;-lintl"
+			"value" : "-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gtk+/2.24.33/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgtk-quartz-2.0;-lgdk-quartz-2.0;-framework;Cocoa;-lpangocairo-1.0;-lpango-1.0;-lharfbuzz;-latk-1.0;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0;-lintl"
 		},
 		{
 			"name" : "GTK2_LDFLAGS_OTHER",
@@ -3407,7 +3407,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/gtk+/2.24.33/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
+			"value" : "/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gtk+/2.24.33/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
 		},
 		{
 			"name" : "GTK2_LIBS",
@@ -3491,7 +3491,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;-I/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;-I/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
 		},
 		{
 			"name" : "GTK2_STATIC_CFLAGS_I",
@@ -3527,7 +3527,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
 		},
 		{
 			"name" : "GTK2_STATIC_LDFLAGS",
@@ -3539,7 +3539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/gtk+/2.24.33/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/fribidi/1.0.11/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/graphite2/1.3.14/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/pixman/0.40.0/lib;-L/usr/local/Cellar/fontconfig/2.13.1/lib;-L/usr/local/opt/freetype/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxrender/0.9.10/lib;-L/usr/local/Cellar/libxext/1.3.4/lib;-L/usr/local/Cellar/libx11/1.7.3.1/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxau/1.0.9/lib;-L/usr/local/Cellar/libxdmcp/1.1.3/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libtiff/4.3.0/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-L/usr/lib;-lgtk-quartz-2.0;-lgdk-quartz-2.0;-framework;Cocoa;-lpangocairo-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lpangoft2-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lharfbuzz-gobject;-lpango-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lfribidi;-lharfbuzz;-lm;-framework;ApplicationServices;-lgraphite2;-latk-1.0;-lcairo;-lz;-lpixman-1;-lfontconfig;-lexpat;-lfreetype;-lz;-lbz2;-lpng16;-lz;-lpng16;-lz;-lxcb-shm;-lxcb-render;-lXrender;-lXext;-lX11;-lxcb;-lXau;-lXdmcp;-lgdk_pixbuf-2.0;-lm;-lintl;-ljpeg;-lpng16;-lz;-ltiff;-ljpeg;-lz;-lgio-2.0;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-lintl;-lresolv;-lgmodule-2.0;-lintl;-lz;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gtk+/2.24.33/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/fribidi/1.0.11/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/graphite2/1.3.14/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/pixman/0.40.0/lib;-L/usr/local/Cellar/fontconfig/2.13.1/lib;-L/usr/local/opt/freetype/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxrender/0.9.10/lib;-L/usr/local/Cellar/libxext/1.3.4/lib;-L/usr/local/Cellar/libx11/1.7.3.1/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxau/1.0.9/lib;-L/usr/local/Cellar/libxdmcp/1.1.3/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libtiff/4.3.0/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-L/usr/lib;-lgtk-quartz-2.0;-lgdk-quartz-2.0;-framework;Cocoa;-lpangocairo-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lpangoft2-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lharfbuzz-gobject;-lpango-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lfribidi;-lharfbuzz;-lm;-framework;ApplicationServices;-lgraphite2;-latk-1.0;-lcairo;-lz;-lpixman-1;-lfontconfig;-lexpat;-lfreetype;-lz;-lbz2;-lpng16;-lz;-lpng16;-lz;-lxcb-shm;-lxcb-render;-lXrender;-lXext;-lX11;-lxcb;-lXau;-lXdmcp;-lgdk_pixbuf-2.0;-lm;-lintl;-ljpeg;-lpng16;-lz;-ltiff;-ljpeg;-lz;-lgio-2.0;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-lintl;-lresolv;-lgmodule-2.0;-lintl;-lz;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
 		},
 		{
 			"name" : "GTK2_STATIC_LDFLAGS_OTHER",
@@ -3587,7 +3587,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/gtk+/2.24.33/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/fribidi/1.0.11/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/graphite2/1.3.14/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/pixman/0.40.0/lib;/usr/local/Cellar/fontconfig/2.13.1/lib;/usr/local/opt/freetype/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxrender/0.9.10/lib;/usr/local/Cellar/libxext/1.3.4/lib;/usr/local/Cellar/libx11/1.7.3.1/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxau/1.0.9/lib;/usr/local/Cellar/libxdmcp/1.1.3/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libtiff/4.3.0/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib;/usr/lib"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gtk+/2.24.33/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/fribidi/1.0.11/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/graphite2/1.3.14/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/pixman/0.40.0/lib;/usr/local/Cellar/fontconfig/2.13.1/lib;/usr/local/opt/freetype/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxrender/0.9.10/lib;/usr/local/Cellar/libxext/1.3.4/lib;/usr/local/Cellar/libx11/1.7.3.1/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxau/1.0.9/lib;/usr/local/Cellar/libxdmcp/1.1.3/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libtiff/4.3.0/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib;/usr/lib"
 		},
 		{
 			"name" : "GTK2_STATIC_LIBS",
@@ -3707,7 +3707,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0;-I/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0;-I/usr/local/Cellar/libepoxy/1.5.9/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;-I/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
 		},
 		{
 			"name" : "GTK3_CFLAGS_I",
@@ -3755,7 +3755,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1/include"
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/include"
 		},
 		{
 			"name" : "GTK3_INCLUDE_DIRS",
@@ -3767,7 +3767,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0;/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0;/usr/local/Cellar/libepoxy/1.5.9/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
 		},
 		{
 			"name" : "GTK3_LDFLAGS",
@@ -3779,7 +3779,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gtk+3/3.24.30_1/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgtk-3;-lgdk-3;-Wl,-framework,Cocoa;-Wl,-framework,Carbon;-Wl,-framework,CoreGraphics;-lpangocairo-1.0;-lpango-1.0;-lharfbuzz;-latk-1.0;-lcairo-gobject;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0;-lintl"
+			"value" : "-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gtk+/2.24.33/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-lgtk-quartz-2.0;-lgdk-quartz-2.0;-framework;Cocoa;-lpangocairo-1.0;-lpango-1.0;-lharfbuzz;-latk-1.0;-lcairo;-lgdk_pixbuf-2.0;-lgio-2.0;-lgobject-2.0;-lglib-2.0;-lintl"
 		},
 		{
 			"name" : "GTK3_LDFLAGS_OTHER",
@@ -3791,7 +3791,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-Wl,-framework,Cocoa;-Wl,-framework,Carbon;-Wl,-framework,CoreGraphics"
+			"value" : "-framework;Cocoa"
 		},
 		{
 			"name" : "GTK3_LIBDIR",
@@ -3803,7 +3803,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1/lib"
+			"value" : "/usr/local/Cellar/gtk+/2.24.33/lib"
 		},
 		{
 			"name" : "GTK3_LIBRARIES",
@@ -3815,7 +3815,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "gtk-3;gdk-3;pangocairo-1.0;pango-1.0;harfbuzz;atk-1.0;cairo-gobject;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0;intl"
+			"value" : "gtk-quartz-2.0;gdk-quartz-2.0;pangocairo-1.0;pango-1.0;harfbuzz;atk-1.0;cairo;gdk_pixbuf-2.0;gio-2.0;gobject-2.0;glib-2.0;intl"
 		},
 		{
 			"name" : "GTK3_LIBRARY_DIRS",
@@ -3827,7 +3827,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gtk+3/3.24.30_1/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
+			"value" : "/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gtk+/2.24.33/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib"
 		},
 		{
 			"name" : "GTK3_LIBS",
@@ -3887,7 +3887,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "gtk+-3.0"
+			"value" : "gtk+-2.0"
 		},
 		{
 			"name" : "GTK3_PREFIX",
@@ -3899,7 +3899,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1"
+			"value" : "/usr/local/Cellar/gtk+/2.24.33"
 		},
 		{
 			"name" : "GTK3_STATIC_CFLAGS",
@@ -3911,7 +3911,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0;-I/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0;-I/usr/local/Cellar/libepoxy/1.5.9/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
+			"value" : "-I/usr/local/Cellar/libffi/3.4.2/include;-I/usr/local/Cellar/cairo/1.16.0_5/include/cairo;-I/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;-I/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/pango/1.50.3/include/pango-1.0;-I/usr/local/Cellar/fribidi/1.0.11/include/fribidi;-I/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;-I/usr/local/Cellar/graphite2/1.3.14/include;-I/usr/local/Cellar/atk/2.36.0/include/atk-1.0;-I/usr/local/Cellar/pixman/0.40.0/include/pixman-1;-I/usr/local/Cellar/fontconfig/2.13.1/include;-I/usr/local/opt/freetype/include/freetype2;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxrender/0.9.10/include;-I/usr/local/Cellar/libxext/1.3.4/include;-I/usr/local/Cellar/libx11/1.7.3.1/include;-I/usr/local/Cellar/libxcb/1.14_1/include;-I/usr/local/Cellar/libxau/1.0.9/include;-I/usr/local/Cellar/libxdmcp/1.1.3/include;-I/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;-I/usr/local/Cellar/libpng/1.6.37/include/libpng16;-I/usr/local/Cellar/libtiff/4.3.0/include;-I/usr/local/Cellar/glib/2.70.3/include;-I/usr/local/Cellar/glib/2.70.3/include/glib-2.0;-I/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;-I/usr/local/opt/gettext/include;-I/usr/local/Cellar/pcre/8.45/include;-I/usr/local/Cellar/xorgproto/2021.5/include"
 		},
 		{
 			"name" : "GTK3_STATIC_CFLAGS_I",
@@ -3947,7 +3947,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/gtk+3/3.24.30_1/include/gtk-3.0;/usr/local/Cellar/glib/2.70.3/include/gio-unix-2.0;/usr/local/Cellar/libepoxy/1.5.9/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/cairo/1.16.0_5/include/cairo;/usr/local/Cellar/gtk+/2.24.33/include/gtk-2.0;/usr/local/Cellar/gtk+/2.24.33/lib/gtk-2.0/include;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/pango/1.50.3/include/pango-1.0;/usr/local/Cellar/fribidi/1.0.11/include/fribidi;/usr/local/Cellar/harfbuzz/3.3.1/include/harfbuzz;/usr/local/Cellar/graphite2/1.3.14/include;/usr/local/Cellar/atk/2.36.0/include/atk-1.0;/usr/local/Cellar/pixman/0.40.0/include/pixman-1;/usr/local/Cellar/fontconfig/2.13.1/include;/usr/local/opt/freetype/include/freetype2;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxrender/0.9.10/include;/usr/local/Cellar/libxext/1.3.4/include;/usr/local/Cellar/libx11/1.7.3.1/include;/usr/local/Cellar/libxcb/1.14_1/include;/usr/local/Cellar/libxau/1.0.9/include;/usr/local/Cellar/libxdmcp/1.1.3/include;/usr/local/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0;/usr/local/Cellar/libpng/1.6.37/include/libpng16;/usr/local/Cellar/libtiff/4.3.0/include;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include;/usr/local/Cellar/xorgproto/2021.5/include"
 		},
 		{
 			"name" : "GTK3_STATIC_LDFLAGS",
@@ -3959,7 +3959,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gtk+3/3.24.30_1/lib;-L/usr/local/Cellar/libepoxy/1.5.9/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/fribidi/1.0.11/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/graphite2/1.3.14/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/pixman/0.40.0/lib;-L/usr/local/Cellar/fontconfig/2.13.1/lib;-L/usr/local/opt/freetype/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxrender/0.9.10/lib;-L/usr/local/Cellar/libxext/1.3.4/lib;-L/usr/local/Cellar/libx11/1.7.3.1/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxau/1.0.9/lib;-L/usr/local/Cellar/libxdmcp/1.1.3/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libtiff/4.3.0/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-L/usr/lib;-lgtk-3;-lgdk-3;-Wl,-framework,Cocoa;-Wl,-framework,Carbon;-Wl,-framework,CoreGraphics;-lepoxy;-ldl;-lpangocairo-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lpangoft2-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lharfbuzz-gobject;-lpango-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lfribidi;-lharfbuzz;-lm;-framework;ApplicationServices;-lgraphite2;-latk-1.0;-lcairo-gobject;-lcairo;-lz;-lpixman-1;-lfontconfig;-lexpat;-lfreetype;-lz;-lbz2;-lpng16;-lz;-lpng16;-lz;-lxcb-shm;-lxcb-render;-lXrender;-lXext;-lX11;-lxcb;-lXau;-lXdmcp;-lgdk_pixbuf-2.0;-lm;-lintl;-ljpeg;-lpng16;-lz;-ltiff;-ljpeg;-lz;-lgio-2.0;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-lintl;-lresolv;-lgmodule-2.0;-lintl;-lz;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
+			"value" : "-L/usr/local/Cellar/libffi/3.4.2/lib;-L/usr/local/Cellar/cairo/1.16.0_5/lib;-L/usr/local/Cellar/gtk+/2.24.33/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/pango/1.50.3/lib;-L/usr/local/Cellar/fribidi/1.0.11/lib;-L/usr/local/Cellar/harfbuzz/3.3.1/lib;-L/usr/local/Cellar/graphite2/1.3.14/lib;-L/usr/local/Cellar/atk/2.36.0/lib;-L/usr/local/Cellar/pixman/0.40.0/lib;-L/usr/local/Cellar/fontconfig/2.13.1/lib;-L/usr/local/opt/freetype/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxrender/0.9.10/lib;-L/usr/local/Cellar/libxext/1.3.4/lib;-L/usr/local/Cellar/libx11/1.7.3.1/lib;-L/usr/local/Cellar/libxcb/1.14_1/lib;-L/usr/local/Cellar/libxau/1.0.9/lib;-L/usr/local/Cellar/libxdmcp/1.1.3/lib;-L/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;-L/usr/local/Cellar/libpng/1.6.37/lib;-L/usr/local/Cellar/libtiff/4.3.0/lib;-L/usr/local/Cellar/glib/2.70.3/lib;-L/usr/local/opt/gettext/lib;-L/usr/local/Cellar/pcre/8.45/lib;-L/usr/lib;-lgtk-quartz-2.0;-lgdk-quartz-2.0;-framework;Cocoa;-lpangocairo-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lpangoft2-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lharfbuzz-gobject;-lpango-1.0;-lm;-framework;CoreFoundation;-framework;ApplicationServices;-lfribidi;-lharfbuzz;-lm;-framework;ApplicationServices;-lgraphite2;-latk-1.0;-lcairo;-lz;-lpixman-1;-lfontconfig;-lexpat;-lfreetype;-lz;-lbz2;-lpng16;-lz;-lpng16;-lz;-lxcb-shm;-lxcb-render;-lXrender;-lXext;-lX11;-lxcb;-lXau;-lXdmcp;-lgdk_pixbuf-2.0;-lm;-lintl;-ljpeg;-lpng16;-lz;-ltiff;-ljpeg;-lz;-lgio-2.0;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-lintl;-lresolv;-lgmodule-2.0;-lintl;-lz;-lgobject-2.0;-lintl;-lffi;-lglib-2.0;-lintl;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-liconv;-lm;-lpcre;-D_THREAD_SAFE;-pthread"
 		},
 		{
 			"name" : "GTK3_STATIC_LDFLAGS_OTHER",
@@ -3971,7 +3971,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "-Wl,-framework,Cocoa;-Wl,-framework,Carbon;-Wl,-framework,CoreGraphics;-framework;CoreFoundation;-framework;ApplicationServices;-framework;CoreFoundation;-framework;ApplicationServices;-framework;CoreFoundation;-framework;ApplicationServices;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
+			"value" : "-framework;Cocoa;-framework;CoreFoundation;-framework;ApplicationServices;-framework;CoreFoundation;-framework;ApplicationServices;-framework;CoreFoundation;-framework;ApplicationServices;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-Wl,-framework,CoreFoundation;-Wl,-framework,Carbon;-Wl,-framework,Foundation;-Wl,-framework,AppKit;-D_THREAD_SAFE;-pthread"
 		},
 		{
 			"name" : "GTK3_STATIC_LIBDIR",
@@ -3995,7 +3995,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "gtk-3;gdk-3;epoxy;dl;pangocairo-1.0;m;pangoft2-1.0;m;harfbuzz-gobject;pango-1.0;m;fribidi;harfbuzz;m;graphite2;atk-1.0;cairo-gobject;cairo;z;pixman-1;fontconfig;expat;freetype;z;bz2;png16;z;png16;z;xcb-shm;xcb-render;Xrender;Xext;X11;xcb;Xau;Xdmcp;gdk_pixbuf-2.0;m;intl;jpeg;png16;z;tiff;jpeg;z;gio-2.0;intl;resolv;gmodule-2.0;intl;z;gobject-2.0;intl;ffi;glib-2.0;intl;iconv;m;pcre"
+			"value" : "gtk-quartz-2.0;gdk-quartz-2.0;pangocairo-1.0;m;pangoft2-1.0;m;harfbuzz-gobject;pango-1.0;m;fribidi;harfbuzz;m;graphite2;atk-1.0;cairo;z;pixman-1;fontconfig;expat;freetype;z;bz2;png16;z;png16;z;xcb-shm;xcb-render;Xrender;Xext;X11;xcb;Xau;Xdmcp;gdk_pixbuf-2.0;m;intl;jpeg;png16;z;tiff;jpeg;z;gio-2.0;intl;resolv;gmodule-2.0;intl;z;gobject-2.0;intl;ffi;glib-2.0;intl;iconv;m;pcre"
 		},
 		{
 			"name" : "GTK3_STATIC_LIBRARY_DIRS",
@@ -4007,7 +4007,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gtk+3/3.24.30_1/lib;/usr/local/Cellar/libepoxy/1.5.9/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/fribidi/1.0.11/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/graphite2/1.3.14/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/pixman/0.40.0/lib;/usr/local/Cellar/fontconfig/2.13.1/lib;/usr/local/opt/freetype/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxrender/0.9.10/lib;/usr/local/Cellar/libxext/1.3.4/lib;/usr/local/Cellar/libx11/1.7.3.1/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxau/1.0.9/lib;/usr/local/Cellar/libxdmcp/1.1.3/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libtiff/4.3.0/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib;/usr/lib"
+			"value" : "/usr/local/Cellar/libffi/3.4.2/lib;/usr/local/Cellar/cairo/1.16.0_5/lib;/usr/local/Cellar/gtk+/2.24.33/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/pango/1.50.3/lib;/usr/local/Cellar/fribidi/1.0.11/lib;/usr/local/Cellar/harfbuzz/3.3.1/lib;/usr/local/Cellar/graphite2/1.3.14/lib;/usr/local/Cellar/atk/2.36.0/lib;/usr/local/Cellar/pixman/0.40.0/lib;/usr/local/Cellar/fontconfig/2.13.1/lib;/usr/local/opt/freetype/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxrender/0.9.10/lib;/usr/local/Cellar/libxext/1.3.4/lib;/usr/local/Cellar/libx11/1.7.3.1/lib;/usr/local/Cellar/libxcb/1.14_1/lib;/usr/local/Cellar/libxau/1.0.9/lib;/usr/local/Cellar/libxdmcp/1.1.3/lib;/usr/local/Cellar/gdk-pixbuf/2.42.6/lib;/usr/local/Cellar/libpng/1.6.37/lib;/usr/local/Cellar/libtiff/4.3.0/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib;/usr/local/Cellar/pcre/8.45/lib;/usr/lib"
 		},
 		{
 			"name" : "GTK3_STATIC_LIBS",
@@ -4067,7 +4067,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "3.24.30"
+			"value" : "2.24.33"
 		},
 		{
 			"name" : "GTK3_gtk+-2.0_INCLUDEDIR",
@@ -4155,306 +4155,6 @@
 		},
 		{
 			"name" : "GTK3_gtk+-3.0_VERSION",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_CFLAGS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_CFLAGS_I",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_CFLAGS_OTHER",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_FOUND",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_INCLUDEDIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_LIBDIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_LIBS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_LIBS_L",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_LIBS_OTHER",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_LIBS_PATHS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_MODULE_NAME",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_PREFIX",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_STATIC_CFLAGS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_STATIC_CFLAGS_I",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_STATIC_CFLAGS_OTHER",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_STATIC_LIBDIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_STATIC_LIBS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_STATIC_LIBS_L",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_STATIC_LIBS_OTHER",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_STATIC_LIBS_PATHS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_VERSION",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_gtkmm-3.0_INCLUDEDIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_gtkmm-3.0_LIBDIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_gtkmm-3.0_PREFIX",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : ""
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "GTK_gtkmm-3.0_VERSION",
 			"properties" : 
 			[
 				{
@@ -4591,7 +4291,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "REQUIRED;gtk+-3.0"
+			"value" : "REQUIRED;gtk+-2.0"
 		},
 		{
 			"name" : "__pkg_config_checked_GLIB",
@@ -4723,7 +4423,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/usr/local/Cellar/glib/2.70.2/lib/libglib-2.0.dylib"
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libglib-2.0.dylib"
 		},
 		{
 			"name" : "pkgcfg_lib_GSTREAMER_gobject-2.0",
@@ -4739,7 +4439,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/usr/local/Cellar/glib/2.70.2/lib/libgobject-2.0.dylib"
+			"value" : "/usr/local/Cellar/glib/2.70.3/lib/libgobject-2.0.dylib"
 		},
 		{
 			"name" : "pkgcfg_lib_GSTREAMER_gstreamer-1.0",
@@ -5471,7 +5171,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local/Cellar/gtk+3/3.24.30_1/lib"
+			"value" : "/usr/local/Cellar/gstreamer/1.18.5/lib"
 		}
 	],
 	"kind" : "cache",
